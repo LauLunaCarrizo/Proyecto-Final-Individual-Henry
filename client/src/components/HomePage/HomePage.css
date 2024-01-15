@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url("https://i.pinimg.com/736x/a5/72/24/a57224167e7d0ac7d8cc532650db525f.jpg");
+}

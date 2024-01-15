@@ -1,0 +1,15 @@
+.Card{
+    background: rgb(154,209,212);
+    background: radial-gradient(circle, rgba(154,209,212,1) 0%, rgba(0,6,167,1) 100%);
+    margin-top: 15px;
+    color: black;
+    border-radius: 15px;
+    border: solid;
+    border-color: #007EA7;
+}
+.image{
+    border-radius: 15px;
+    border-radius: 15px;
+    border: solid;
+    border-color: #007EA7;
+}

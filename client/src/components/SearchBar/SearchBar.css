@@ -1,0 +1,13 @@
+.SearchBar{
+    display: flex;
+    gap: 18px; /* Ajusta este valor según el espacio que desees entre el input y el botón */
+    align-items: center
+}
+
+.Input{
+    padding: 10px;
+}
+.Button{
+    padding: 10px;
+    padding-right: 2px;
+}

@@ -1,0 +1,10 @@
+.detail{
+    background-size: cover;
+    border:solid;
+    border-radius: 15px ;
+    border-color: #80ced7;
+}
+.imageDetail{
+    border: solid;
+    border-radius: 15px;
+}
